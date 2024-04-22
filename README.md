@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Quardruped-Robodog](https://github.com/berfinncicek/Quardruped-Robodog)
 
-- 🌱 I’m currently learning **ML Algorithms (KNN)/(CNN)/CART, RL Algorithms(Deep Q,A2C,PPO..) ,OpenCV**
+- 🌱 I’m currently learning **ML Algorithms (KNN)/(CNN), RL Algorithms(Deep Q,A2C,PPO..) ,OpenCV**
 
 - 💬 Ask me about **Artificial Intelligent? robotic?**
 
