@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berfin!</h1>
-<h3 align="center">I am a third year computer engineering student.</h3>
+
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif">
 
 - 🔭 I’m currently working on [Quardruped-Robodog](https://github.com/berfinncicek/Quardruped-Robodog)
